@@ -2,7 +2,7 @@
 
 MCP event bridge with D1 persistence, authenticated owner console, signed event subscriptions, a limited Grok MCP endpoint, and an asynchronous reply outbox.
 
-This is a sanitized source snapshot of the deployed v17 application. Deployment identifiers, production URLs, real test identifiers, credentials, messages, runtime databases, build outputs, and original Git history are excluded. All example hosts and deterministic test credentials are fixtures.
+This is a sanitized source snapshot of the deployed v17 application. The complete tracked source tree is included, with deployment examples substituted for private configuration. Deployment identifiers, production URLs, real test identifiers, credentials, messages, runtime databases, build outputs, and original Git history are excluded. All example hosts and deterministic test credentials are fixtures.
 
 ## Development
 

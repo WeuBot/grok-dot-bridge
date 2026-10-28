@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793119155637,
+      "tag": "0000_faulty_inertia",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793122548181,
+      "tag": "0001_spotty_the_liberteens",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793124844622,
+      "tag": "0002_ambitious_emma_frost",
+      "breakpoints": true
+    }
+  ]
+}
